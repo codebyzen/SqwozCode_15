@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d8032bb2.css",
+    "main.js": "/static/js/main.fb483e6b.js",
+    "static/media/bg.png": "/static/media/bg.6988fca06d8582a67dd9.png",
+    "static/media/alarm.svg": "/static/media/alarm.5a31ac715e9a28f519d356026af1a2ac.svg",
+    "static/media/speaker.svg": "/static/media/speaker.bdb02c893c70589d4ab35918cc10d90d.svg",
+    "static/media/all.svg": "/static/media/all.95fbd3bd22b70c11ad763c192c01a57f.svg",
+    "static/media/film.svg": "/static/media/film.11c66dc769748098c1777fc1ed2ceeee.svg",
+    "static/media/fun.svg": "/static/media/fun.df18b4e98c23ae137f0bbe636def353d.svg",
+    "static/media/sad.svg": "/static/media/sad.8420ce519dc1c030c736e52567199ad5.svg",
+    "static/media/ok.svg": "/static/media/ok.edafa485e0d69bfb55b2fba92b040919.svg",
+    "static/media/slow.svg": "/static/media/slow.155bb85164a0ef084bc7fe8041fcb0c3.svg",
+    "static/media/book.svg": "/static/media/book.cee3d59f095131d3d392ae1d277d9c30.svg",
+    "static/media/logo.svg": "/static/media/logo.107cbddce1d542390fd332d3e3746654.svg",
+    "static/media/high.svg": "/static/media/high.9dd9b197484051ee4f696d075f8db83d.svg",
+    "static/media/loader.svg": "/static/media/loader.013bd8f6b801fc924e770f34d24da6e1.svg",
+    "static/media/filters.svg": "/static/media/filters.85857d4c9d1f43771d7237549b5663e9.svg",
+    "static/media/search.svg": "/static/media/search.71586a418bfc445e1aa075932db97ad5.svg",
+    "static/media/white-search.svg": "/static/media/white-search.6a12b44cf0ee890b8d3c825a733fe13c.svg",
+    "index.html": "/index.html",
+    "static/media/time.svg": "/static/media/time.99ba88f73c5fec6c779a02b37200400c.svg",
+    "static/media/close.svg": "/static/media/close.4378eeef47b12e724cdf5fbf73ad98a9.svg",
+    "static/media/attach.svg": "/static/media/attach.482dd060706a78b5c34fba1e6a12b8f3.svg",
+    "main.d8032bb2.css.map": "/static/css/main.d8032bb2.css.map",
+    "main.fb483e6b.js.map": "/static/js/main.fb483e6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8032bb2.css",
+    "static/js/main.fb483e6b.js"
+  ]
+}
